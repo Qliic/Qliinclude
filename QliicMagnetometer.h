@@ -2,8 +2,8 @@
 
 #include <Wire.h>
 
-boolean magnetometer = false;
-int magnetometerAxeX, magnetometerAxeY, magnetometerAxeZ, magnetometerDegre;
+//boolean magnetometer = false;
+//int magnetometerAxeX, magnetometerAxeY, magnetometerAxeZ, magnetometerDegre;
 
 String magnetometerRead(){
     
